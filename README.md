@@ -6,4 +6,4 @@ Apenas um facilitador para usar o [UglifyJS 2](https://github.com/mishoo/UglifyJ
 
 ## Licença
 
-Aplicação distribuida sob a [Licença MIT](https://github.com/KaduAmaral/UglifyJsFiles/blob/master/LICENSE.md)
+Aplicação distribuída sob a [Licença MIT](https://github.com/KaduAmaral/UglifyJsFiles/blob/master/LICENSE.md)
