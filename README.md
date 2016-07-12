@@ -4,6 +4,6 @@ Formulário para unificação e minificação de multiplos arquivos, com possibi
 
 Apenas um facilitador para usar o [UglifyJS 2](https://github.com/mishoo/UglifyJS2).
 
-## Licensa
+## Licença
 
-MIT
+Aplicação distribuida sob a [Licença MIT](https://github.com/KaduAmaral/UglifyJsFiles/blob/master/LICENSE.md)
